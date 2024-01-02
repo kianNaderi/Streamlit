@@ -4,4 +4,3 @@ numpy
 pandas
 scikit-learn
 sklearn
-#streamlit run recommender_app.py
