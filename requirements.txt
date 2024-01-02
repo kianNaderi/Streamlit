@@ -5,4 +5,4 @@ pandas
 scikit-learn
 surprise 
 tensorflow
-matplotlib.pyplot
+matplotlib
