@@ -1,10 +1,10 @@
 import pandas as pd
 import os
 import numpy as np
-import sklearn
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
+# import sklearn
+# from sklearn.cluster import KMeans
+# from sklearn.preprocessing import StandardScaler
+# from sklearn.decomposition import PCA
 from surprise import KNNBasic
 from surprise import Dataset, Reader
 from surprise.model_selection import train_test_split
