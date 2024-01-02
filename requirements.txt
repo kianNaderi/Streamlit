@@ -3,4 +3,3 @@ streamlit-aggrid==0.2.2-2
 numpy
 pandas
 scikit-learn
-sklearn
