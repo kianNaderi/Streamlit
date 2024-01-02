@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import numpy as np
+import sklearn
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
